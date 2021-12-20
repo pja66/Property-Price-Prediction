@@ -11,3 +11,6 @@ feature engineering. The train and test data sets for the Kaggle competition
 are from a select range of times and only for properties in Ames, IA. We will 
 first train a model to perform on properties from the given timeframe in Ames 
 and then attempt to predict prices across different subsets of years.
+
+## Design Doc
+View ORIE_4741_Final_Report-7.pdf
